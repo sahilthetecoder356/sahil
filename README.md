@@ -13,3 +13,5 @@
   
   <tr> 
     <td>Jupiter</td>
+    <td>It has more than double the mass of all other planets combined </td>
+    <td>at least 79</td>
